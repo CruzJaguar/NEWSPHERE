@@ -44,17 +44,46 @@ The Incremental model is well-suited for the Babcock University Online News Chan
 
 ## Risk Analysis
 
-| Risk                     | Category         | Component                     | Probability | Impact | RMMM                                                                          | Owner           |
-|--------------------------|------------------|------------------------------|-------------|--------|--------------------------------------------------------------------------------|-----------------|
-| Platform Compatibility     | Technical Risk   | User Devices, External Libraries | High        | Medium | Early compatibility tests, regular platform testing, use of responsive design | Development Team |
-| Data Privacy & Security  | Security Risk    | User Data, Database          | High        | High   | Implement data encryption, regular security audits, adhere to NDPR standards    | Security Officer |
-| System Crashes/Downtime  | Technical Risk   | Database, Server Infrastructure | Medium      | High   | Robust server infrastructure, regular backups, automated failover systems       | IT Department   |
-| Content Accuracy/Integrity | Content Risk     | News Articles, Multimedia     | Medium      | Medium | Implement fact-checking process, use reputable sources, editorial review      | Editorial Team  |
-| Delay in Development     | Schedule Risk    | Front-End Code, UI Design     | Low         | Medium | Monitor progress with Agile sprints, simplify designs, prioritize features      | Project Manager |
-| Budget Overrun           | Financial Risk   | Budget Allocation, Resources | Low         | High   | Track spending meticulously, prioritize essential features, contingency budget  | Finance Officer |
+# Risk Analysis
 
----
+## Financial Risks
 
+| Component        | Probability | Impact | Mitigation |
+|-----------------|------------|--------|------------|
+| Variable profits | High | High | Diversify income (ads, subscriptions). |
+| Profiting issues | High | High | Mix of ads and premium content. |
+| High costs | Medium | High | Cut unnecessary expenses, automation. |
+
+## Technology Risks
+
+| Component        | Probability | Impact | Mitigation |
+|-----------------|------------|--------|------------|
+| Cyberattacks | High | High | Strong security, regular updates. |
+| Website crashes | Medium | High | Cloud backup, load balancing. |
+| Dependence on platforms | High | Medium | Direct audience engagement. |
+
+## Operational Risks
+
+| Component        | Probability | Impact | Mitigation |
+|-----------------|------------|--------|------------|
+| Fake news, misinformation | High | High | Strict fact-checking, AI verification. |
+| Plagiarism | Medium | High | Plagiarism checks, strong policies. |
+| Technical issues | Medium | Medium | Regular maintenance, tech support. |
+
+## Legal Risks
+
+| Component        | Probability | Impact | Mitigation |
+|-----------------|------------|--------|------------|
+| Copyright violations | Medium | High | Follow licensing rules. |
+| Defamation lawsuits | High | High | Legal review before publishing. |
+
+## Reputation Risks
+
+| Component        | Probability | Impact | Mitigation |
+|-----------------|------------|--------|------------|
+| Loss of trust | High | High | Honest, balanced reporting. |
+| Social media backlash | Medium | High | Monitor, respond quickly. |
+| Bias accusations | Medium | High | Multiple sources, neutrality. |
 ## Use Case Diagram
 
 - **Actors:**  
