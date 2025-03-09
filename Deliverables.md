@@ -18,16 +18,16 @@
 ## Functional And Non-Functional Requirements
 
 ### Functional: What the system should do
-- Students and staff shall be able to contribute content.
+- Students and staff shall be able to view content.
 - Students and staff shall be able to access real-time news feeds from various sources.
 - Students and staff shall be able to participate in polls and surveys.
-- Ad management integration should not negatively impact user experience.
+- Students and staff shall be able to comment on articles and posts. 
 
 
 ### Non-Functional: How the system should perform
 - The system should always be accessible (24/7).
 - It should handle up to 20,000 users.
-- The platform should load in less than a second.
+- The platform should load in less than three seconds.
 - The Interface shall be easy for users to use.
 - The system shall be compatible with all devices.
 - The System should be able to recover from failures easily.
@@ -89,15 +89,15 @@ The Incremental model is well-suited for the Babcock University Online News Chan
 
 ## **1. Labor Costs**  
 The project team consists of Eight members working for 12 weeks. Each member will work 10 hours per week at a rate of ₦3,000 per hour.  
-- **Total Hours per Member:** 10 hours/week × 12 weeks = 120 hours.  
-- **Total Cost per Member:** 120 hours × ₦3,000/hour = ₦360,000.  
+- **Total Hours per Member:** 10 hours/week × 5 weeks = 50 hours.  
+- **Total Cost per Member:** 50 hours × ₦7,200/hour = ₦360,000.  
 - **Total Labor Cost for 5 Members:** ₦360,000 × 8 = ₦2,880,000.  
 
 ## **2. Infrastructure and Tools Costs**  
 - Domain registration: ₦15,000  
-- Web hosting for 3 months: ₦50,000  
+- Web hosting : ₦50,000  
 - Design tools (Figma/Canva): ₦20,000  
-- Collaboration tools (Slack, Trello, etc.): ₦10,000  
+- Collaboration tools: ₦10,000  
 - Miscellaneous (software licenses, plugins): ₦30,000  
 - **Total Infrastructure and Tools Cost:** ₦125,000  
 
