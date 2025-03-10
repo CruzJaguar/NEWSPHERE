@@ -33,12 +33,12 @@ The project is being developed by an **eight-member team**, each with designated
 |----------------|---------------|-----------|
 | Bahago Jason Kaduma | 23/0015 | Project Manager |
 | Azagba Dora Osemheghian | 23/0028 | Backend Developer |
-| Yinka-Mafe Sijuade Cruz | 23/0036 | Backend Developer |
+| Yinka-Mafe Sijuade Cruz | 23/0036 | Deployement and documentation |
 | Biose Chisom Sonia | 23/0046 | Frontend Developer |
-| Asotie Godsent Onosetale | 23/0048 | Frontend Developer |
-| Ebereonwu Charles | 23/0096 | Content Manager |
+| Asotie Godsent Onosetale | 23/0048 | UI/UX Designer |
+| Ebereonwu Charles | 23/0096 | Frontend Developer |
 | Ayeni Kim | 23/0166 | Tester & Debugger |
-| Dada Olujimi Olakunle | 23/0205 | Deployment & Documentation |
+| Dada Olujimi Olakunle | 23/0205 | Backend Developer |
 
 The team is currently collaborating on the **design phase**, which includes **wireframing, structuring database models, and setting up project management tools**.  
 
