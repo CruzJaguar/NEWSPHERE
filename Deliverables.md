@@ -120,7 +120,7 @@ The Incremental model is well-suited for the Babcock University Online News Chan
 The project team consists of Eight members working for 12 weeks. Each member will work 10 hours per week at a rate of ₦3,000 per hour.  
 - **Total Hours per Member:** 10 hours/week × 5 weeks = 50 hours.  
 - **Total Cost per Member:** 50 hours × ₦7,200/hour = ₦360,000.  
-- **Total Labor Cost for 5 Members:** ₦360,000 × 8 = ₦2,880,000.  
+- **Total Labor Cost for 8 Members:** ₦360,000 × 8 = ₦2,880,000.  
 
 ## **2. Infrastructure and Tools Costs**  
 - Domain registration: ₦15,000  
